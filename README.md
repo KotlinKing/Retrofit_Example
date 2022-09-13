@@ -9,14 +9,14 @@ There are other alternatives to handle network requests which are as follows:
 3. Retrofit 
 4. Volley
 
-Why not HttpURLConnection? 
+# Why not HttpURLConnection? 
 
 * Poor Readability and less Expressive
 * Lots of BoilerPlate code 
 * No build-in support for parsing JSOn response
 * Manage background thread manually
 
-Retrofit vs Volley 
+# Retrofit vs Volley 
 
 Advantages of volley
 
